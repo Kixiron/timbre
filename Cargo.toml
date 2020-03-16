@@ -1,0 +1,6 @@
+[package]
+name = "timbre"
+description = "An implementation of a Treiber Stack in Rust"
+version = "0.1.0"
+authors = ["Chase Wilson <contact@chasewilson.dev>"]
+edition = "2018"
